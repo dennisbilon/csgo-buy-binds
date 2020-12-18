@@ -15,7 +15,7 @@
 
 ## How to install it
 
- 1. Download **buy-binds.cfg** from [here](https://github.com/dennisbilon/csgo-buy-binds/blob/main/buy-binds.cfg).
+ 1. Download **buy-binds.cfg** from [here](https://github.com/dennisbilon/csgo-buy-binds/archive/main.zip).
  2. Right click CS:GO in Steam and click on Properties.
  3. Go to the **Local Files** Tab.
  4. Click on **Browse Local Files**.
